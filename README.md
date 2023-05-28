@@ -101,7 +101,7 @@ control the lights or toaster or whatever you want.
 
 <img src="./readme_media/custom_bot_v3.png" /> <br/>
 
-
+## Try web version python + flask here ----> https://party-gpt.herokuapp.com/
 
 ## Tweak it to your liking:
 <img src="readme_media/image-v3.png" />
