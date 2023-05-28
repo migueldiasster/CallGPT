@@ -2,6 +2,12 @@
 A simple way to call the ChatGPT API from your machine
 Try online [HERE](https://migueldiasster.github.io/CallGPT/call_gpt)
 
+Remember Create your free API Code:
+
+Enter in (https://chat.openai.com)
+
+Once entered, enter in this link and create a new secret key to use the PartyGPT (https://platform.openai.com/account/api-keys)
+
 ## 👀 What is this?
 
 This is a dead simple way to have a ChatGPT client that you have control over and that you can actually use without having to go to any website
