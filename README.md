@@ -1,4 +1,4 @@
-# ☎ CallGPT
+# ☎ PartyGPT
 A simple way to call the ChatGPT API from your machine
 Try online [HERE](https://migueldiasster.github.io/CallGPT/call_gpt)
 
